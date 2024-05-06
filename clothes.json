@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Chemisier en coton biologique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemisier en coton biologique, léger et confortable.",
+    "price": 29.99,
+    "image": "chemisier-coton-biologique.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Robe midi en lin",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe midi en lin avec ceinture à la taille, idéale pour les journées ensoleillées.",
+    "price": 39.99,
+    "image": "robe-midi-lin.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jupe plissée éthique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe plissée éthique fabriquée à partir de matériaux durables, parfaite pour toutes les occasions.",
+    "price": 49.99,
+    "image": "jupe-plissee-ethique.jpg"
+  },
+  {
+    "id": 4,
+    "name": "T-shirt en coton biologique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "T-shirt en coton biologique doux et confortable, un essentiel de garde-robe.",
+    "price": 19.99,
+    "image": "t-shirt-coton-biologique.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pantalon cargo écologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Pantalon cargo écologique fabriqué à partir de coton biologique et de matériaux recyclés.",
+    "price": 59.99,
+    "image": "pantalon-cargo-ecologique.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chemise à carreaux en coton biologique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemise à carreaux en coton biologique, parfaite pour un look décontracté.",
+    "price": 34.99,
+    "image": "chemise-carreaux-coton-biologique.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Robe chemise en lyocell",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe chemise en lyocell léger et fluide, idéale pour les journées chaudes.",
+    "price": 44.99,
+    "image": "robe-chemise-lyocell.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jupe évasée en jean recyclé",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe évasée en jean recyclé, tendance et écologique.",
+    "price": 39.99,
+    "image": "jupe-evasee-jean-recycle.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Débardeur en lin biologique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Débardeur en lin biologique, léger et respirant, parfait pour l'été.",
+    "price": 24.99,
+    "image": "debardeur-lin-biologique.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Short en coton biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short en coton biologique avec poches latérales, idéal pour les activités estivales.",
+    "price": 29.99,
+    "image": "short-coton-biologique.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Blouse à volants éthique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Blouse à volants éthique fabriquée à partir de matériaux durables, parfaite pour un look féminin.",
+    "price": 39.99,
+    "image": "blouse-volants-ethique.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Combinaison en lin biologique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Combinaison en lin biologique, élégante et confortable pour une tenue décontractée.",
+    "price": 59.99,
+    "image": "combinaison-lin-biologique.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Pantalon palazzo en lyocell",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Pantalon palazzo en lyocell fluide et léger, parfait pour un look décontracté chic.",
+    "price": 49.99,
+    "image": "pantalon-palazzo-lyocell.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Chemise à rayures en coton biologique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemise à rayures en coton biologique, parfaite pour un style classique.",
+    "price": 34.99,
+    "image": "chemise-rayures-coton-biologique.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Robe chemisier en tencel",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe chemisier en tencel fluide et élégante, parfaite pour toutes les occasions.",
+    "price": 49.99,
+    "image": "robe-chemisier-tencel.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Jupe crayon en lin biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe crayon en lin biologique, ajustée et confortable.",
+    "price": 39.99,
+    "image": "jupe-crayon-lin-biologique.jpg"
+  },
+  {
+    "id": 17,
+    "name": "T-shirt à message éthique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "T-shirt à message éthique en coton biologique, pour un look engagé.",
+    "price": 24.99,
+    "image": "t-shirt-message-ethique.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Short en jean recyclé",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short en jean recyclé avec détails effilochés, tendance et écoresponsable.",
+    "price": 34.99,
+    "image": "short-jean-recycle.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Chemisier à fleurs en viscose",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemisier à fleurs en viscose, léger et féminin, parfait pour les journées ensoleillées.",
+    "price": 29.99,
+    "image": "chemisier-fleurs-viscose.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Robe patineuse en coton biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe patineuse en coton biologique, élégante et confortable pour toutes les occasions.",
+    "price": 54.99,
+    "image": "robe-patineuse-coton-biologique.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Jupe plissée en tencel",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe plissée en tencel fluide et légère, parfaite pour un look féminin.",
+    "price": 39.99,
+    "image": "jupe-plissee-tencel.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Débardeur en modal",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Débardeur en modal doux et confortable, idéal pour les journées chaudes.",
+    "price": 19.99,
+    "image": "debardeur-modal.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Short en lin biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short en lin biologique avec taille élastique, léger et respirant.",
+    "price": 29.99,
+    "image": "short-lin-biologique.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Chemise à pois en coton biologique",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemise à pois en coton biologique, intemporelle et élégante.",
+    "price": 34.99,
+    "image": "chemise-pois-coton-biologique.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Robe portefeuille en tencel",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe portefeuille en tencel fluide et légère, parfaite pour toutes les occasions.",
+    "price": 49.99,
+    "image": "robe-portefeuille-tencel.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Jupe midi en coton biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe midi en coton biologique, confortable et polyvalente.",
+    "price": 39.99,
+    "image": "jupe-midi-coton-biologique.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Débardeur en coton biologique à rayures",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Débardeur en coton biologique à rayures, idéal pour un style décontracté.",
+    "price": 24.99,
+    "image": "debardeur-coton-biologique-rayures.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Short en lyocell",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short en lyocell doux et confortable, parfait pour les journées chaudes.",
+    "price": 29.99,
+    "image": "short-lyocell.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Blouse en coton biologique à pois",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Blouse en coton biologique à pois, légère et féminine.",
+    "price": 34.99,
+    "image": "blouse-coton-biologique-pois.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Robe chemise en lin biologique à rayures",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe chemise en lin biologique à rayures, élégante et décontractée.",
+    "price": 49.99,
+    "image": "robe-chemise-lin-biologique-rayures.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Jupe midi en tencel",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe midi en tencel fluide et confortable, parfaite pour un look élégant.",
+    "price": 39.99,
+    "image": "jupe-midi-tencel.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Débardeur en lin biologique à bretelles fines",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Débardeur en lin biologique à bretelles fines, léger et respirant.",
+    "price": 19.99,
+    "image": "debardeur-lin-biologique-bretelles-fines.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Short en coton biologique à motifs",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short en coton biologique à motifs, parfait pour un look estival.",
+    "price": 29.99,
+    "image": "short-coton-biologique-motifs.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Chemisier à volants en tencel",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemisier à volants en tencel fluide et léger, pour un look féminin.",
+    "price": 39.99,
+    "image": "chemisier-volants-tencel.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Robe portefeuille en coton biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe portefeuille en coton biologique, élégante et confortable.",
+    "price": 54.99,
+    "image": "robe-portefeuille-coton-biologique.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Jupe plissée en lyocell",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe plissée en lyocell légère et fluide, parfaite pour un style féminin.",
+    "price": 44.99,
+    "image": "jupe-plissee-lyocell.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Débardeur en coton biologique à col en V",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Débardeur en coton biologique à col en V, basique et polyvalent.",
+    "price": 19.99,
+    "image": "debardeur-coton-biologique-col-v.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Short taille haute en lyocell",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short taille haute en lyocell léger et confortable, parfait pour les journées estivales.",
+    "price": 29.99,
+    "image": "short-taille-haute.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Chemisier à pois en tencel",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemisier à pois en tencel léger et confortable, pour un look décontracté.",
+    "price": 34.99,
+    "image": "chemisier-pois-tencel.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Robe longue en lin biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe longue en lin biologique, élégante et confortable pour toutes les occasions.",
+    "price": 59.99,
+    "image": "robe-longue-lin-biologique.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Jupe crayon en tencel",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe crayon en tencel ajustée et élégante, parfaite pour un look professionnel.",
+    "price": 44.99,
+    "image": "jupe-crayon-tencel.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Débardeur en modal à fines bretelles",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Débardeur en modal à fines bretelles, doux et confortable.",
+    "price": 19.99,
+    "image": "debardeur-modal-fines-bretelles.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Short en lyocell à imprimé floral",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short en lyocell à imprimé floral, parfait pour un look estival.",
+    "price": 29.99,
+    "image": "short-lyocell-imprime-floral.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Chemisier en coton biologique à rayures",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Chemisier en coton biologique à rayures, classique et élégant.",
+    "price": 34.99,
+    "image": "chemisier-coton-biologique-rayures.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Robe chemise en tencel à pois",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe chemise en tencel à pois, légère et féminine.",
+    "price": 49.99,
+    "image": "robe-chemise-tencel-pois.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Jupe midi en lin biologique",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jupe midi en lin biologique, confortable et élégante.",
+    "price": 39.99,
+    "image": "jupe-midi-lin-biologique.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Débardeur en coton biologique à col rond",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Débardeur en coton biologique à col rond, basique et polyvalent.",
+    "price": 19.99,
+    "image": "debardeur-coton-biologique-col-rond.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Short en tencel",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Short en tencel léger et confortable, parfait pour les journées décontractées.",
+    "price": 24.99,
+    "image": "short-tencel.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Blouse en lin biologique à imprimé floral",
+    "genre": "femme",
+    "category": "haut",
+    "description": "Blouse en lin biologique à imprimé floral, légère et féminine.",
+    "price": 29.99,
+    "image": "blouse-lin-biologique-imprime-floral.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Robe longue en tencel",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Robe longue en tencel fluide et élégante, parfaite pour les soirées d'été.",
+    "price": 59.99,
+    "image": "robe-longue-tencel.jpg"
+  }
+]
