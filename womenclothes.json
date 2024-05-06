@@ -15,7 +15,7 @@
     "category": "bas",
     "description": "Robe midi en lin avec ceinture à la taille, idéale pour les journées ensoleillées.",
     "price": 39.99,
-    "image": "robe-midi-lin.jpg"
+    "image": "https://static.e-stradivarius.net/5/photos4/2024/V/0/1/p/7178/103/430/7178103430_1_1_1.jpg?t=1714489150298&impolicy=stradivarius-itxhigt&imwidth=1920&imformat=safari&imdensity=2"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "category": "bas",
     "description": "Jupe plissée éthique fabriquée à partir de matériaux durables, parfaite pour toutes les occasions.",
     "price": 49.99,
-    "image": "jupe-plissee-ethique.jpg"
+    "image": "https://leslunes.fr/cdn/shop/files/4255646506973_010_3x4_dcc9ba88-74e6-40c3-b302-6d0158f6369e.jpg?crop=center&v=1704356390&width=800"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "category": "haut",
     "description": "T-shirt en coton biologique doux et confortable, un essentiel de garde-robe.",
     "price": 19.99,
-    "image": "t-shirt-coton-biologique.jpg"
+    "image": "https://apneeswimwear.com/cdn/shop/files/beachwear-tshirt-apnee-837649.jpg?v=1711361338&width=800"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "category": "bas",
     "description": "Pantalon cargo écologique fabriqué à partir de coton biologique et de matériaux recyclés.",
     "price": 59.99,
-    "image": "pantalon-cargo-ecologique.jpg"
+    "image": "https://d2hnh3d6vfy9oz.cloudfront.net/kGc7p5hiL8paKzN5KOUJjMzhBVkquQTUV70BeL1cCQQ/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL3Q5cjhzMXN3/Mmc4aTVodnVtZjZ0/Nnoxd2N4c2k"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "category": "haut",
     "description": "Chemise à carreaux en coton biologique, parfaite pour un look décontracté.",
     "price": 34.99,
-    "image": "chemise-carreaux-coton-biologique.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9b9Dge61ZtGgy4yGmXluDVURGPPPf7B-GOWgBanVuDCOck8VkCGN2lRczxDR8wEBIw2eCeV9U9w&usqp=CAc"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "category": "bas",
     "description": "Robe chemise en lyocell léger et fluide, idéale pour les journées chaudes.",
     "price": 44.99,
-    "image": "robe-chemise-lyocell.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4yhTpo-6kBRTJGg3IWFwEliSFnz1A9ojBEAl4qF6lwDjsMXTisPvkP4uply2wIVnBq3dziilo&usqp=CAc"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "category": "bas",
     "description": "Jupe évasée en jean recyclé, tendance et écologique.",
     "price": 39.99,
-    "image": "jupe-evasee-jean-recycle.jpg"
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUQFuWUzw_UFtJJj91O-Yq3NITtsFN-LuMrwS2KtakygwEj-2UTC6ZJr5uo1tnfC3GHYfjHv63kA&usqp=CAc"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "category": "haut",
     "description": "Débardeur en lin biologique, léger et respirant, parfait pour l'été.",
     "price": 24.99,
-    "image": "debardeur-lin-biologique.jpg"
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4T2zSBqQNHg-gl8QxV740uMMHiggd_GjYFlFJ5SCQTB6oUquATDrJce0QsrSixanjae-nuqrYjKR5r8tugTf61OG_LfQpHkI89C6e1nrgLqRkK_fOGhA&usqp=CAc"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "category": "bas",
     "description": "Short en coton biologique avec poches latérales, idéal pour les activités estivales.",
     "price": 29.99,
-    "image": "short-coton-biologique.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrDlujTg9Zvg_Jo3tMNSiQqtSaQUDcjNAmTSsQs4XWSm46ixXvCZDBnm-v9gptI_cMpWAUnzkynVFKAd0g2SjbuUqtxAWtwEMmVRBdb5U&usqp=CAc"
   },
   {
     "id": 11,
