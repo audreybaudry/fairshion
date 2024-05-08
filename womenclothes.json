@@ -23,7 +23,7 @@
     "id": 3,
     "brand": "NUDIES JEANS",
     "genre": "femme",
-    "category": "bas",
+    "category": "jean",
     "description": "Jean mom en coton bio | bleu breezy britt casual blue",
     "price": 159.00,
     "image": "https://d2hnh3d6vfy9oz.cloudfront.net/Bzkbg2kXhdg3uKtuRSxIDgAmjulwEoJ7VCfVcgBirMk/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL3Zpdm05N2F4/aHY4bG1oOWdpemhw/bmZzendqZWY",
@@ -51,23 +51,23 @@
   },
   {
     "id": 6,
-    "brand": "Thinking Mu",
+    "brand": "SKFK",
     "genre": "femme",
-    "category": "robe",
-    "description": "Robe à motifs en coton bio | vert cactus shiffli camelia dress",
-    "price": 169.00,
-    "image": "https://d2hnh3d6vfy9oz.cloudfront.net/Bxh3ySlCrkn4-nUJUf_b5YK0h84D4tN6_TU1YwIkJz0/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL2VubDBqM2l3/MG4xZWU4Mm8ya2Iw/ajNvMThrNWw",
-    "site": "https://www.wedressfair.fr/collections/robe-a-motifs-en-coton-bio-vert-cactus-shiffli-camelia-dress-thinking-mu"
+    "category": "jupe",
+    "description": "Jupe midi portefeuille en coton bio | noir baiza-gots skirt black",
+    "price": 79.00,
+    "image": "https://d2hnh3d6vfy9oz.cloudfront.net/7yADsU0gZ0_Elewmd23XhoJin6s0VICG2of2EotV5Pw/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL3VodnFtYXo4/dXZhdGN0YzVmZGJv/cnZucHdid2M",
+    "site": "https://www.wedressfair.fr/collections/jupe-midi-portefeuille-en-coton-bio-noir-baiza-gots-skirt-black-skfk"
   },
   {
     "id": 7,
-    "brand": "SKFK",
+    "brand": "DEDICATED",
     "genre": "femme",
-    "category": "haut",
-    "description": "Débardeur en modal | écru hamar t-shirt cream",
-    "price": 39.00,
-    "image": "https://d2hnh3d6vfy9oz.cloudfront.net/ZS-QmOwQx1mIAUsWu8e8wm7Q27Dez16KofD6TP-kQY8/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL2Jia3BtODV4/Y25uMHVzY2N1NTFk/bWVoZnhhcGY",
-    "site": "https://www.wedressfair.fr/collections/debardeur-en-modal-ecru-hamar-t-shirt-cream-skfk"
+    "category": "veste",
+    "description": "Veste worker en coton bio | rose jacket stiby canvas violet purple red",
+    "price": 119.00,
+    "image": "https://d2hnh3d6vfy9oz.cloudfront.net/5uPETBkCldShkFcrJVC6R3hevXI499cdffGpoNuETJ0/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL3JiazFzdTZk/bmxha3dwZzZzdWMw/bjI3emExajc",
+    "site": "https://www.wedressfair.fr/collections/veste-worker-en-coton-bio-rose-jacket-stiby-canvas-violet-purple-red-dedicated"
   },
   {
     "id": 8,
