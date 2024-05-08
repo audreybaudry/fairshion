@@ -18,5 +18,15 @@
     "price": 39.00,
     "image": "https://d2hnh3d6vfy9oz.cloudfront.net/ZS-QmOwQx1mIAUsWu8e8wm7Q27Dez16KofD6TP-kQY8/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL2Jia3BtODV4/Y25uMHVzY2N1NTFk/bWVoZnhhcGY",
     "site": "https://www.wedressfair.fr/collections/debardeur-en-modal-ecru-hamar-t-shirt-cream-skfk"
-  }
+  },
+  {
+    "id": 3,
+    "brand": "NUDIES JEANS",
+    "genre": "femme",
+    "category": "bas",
+    "description": "Jean mom en coton bio | bleu breezy britt casual blue",
+    "price": 159.00,
+    "image": "https://d2hnh3d6vfy9oz.cloudfront.net/Bzkbg2kXhdg3uKtuRSxIDgAmjulwEoJ7VCfVcgBirMk/w:1500/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL3Zpdm05N2F4/aHY4bG1oOWdpemhw/bmZzendqZWY",
+    "site": "https://www.wedressfair.fr/collections/jean-mom-en-coton-bio-bleu-breezy-britt-casual-blue-nudie-jeans"
+  },
 ]
